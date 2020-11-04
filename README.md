@@ -11,8 +11,6 @@ Box
  box.position = location
  box.physicsBody = SKPhysicsBody(rectangleOf: size)
  addChild(box)
-
-
 ```
 
 
